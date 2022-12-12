@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rkATmsk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ranjith KA
+- 👀 I’m interested in Infa,Devops, Coding
+- 🌱 I’m currently learning Golang, Devops tools, CNCF Projects.
+- 💞️ I’m looking to collaborate on Coding/Event sourcing/architecture
+- 📫 How to reach me https://github.com/rkATmsk
 
 <!---
 rkATmsk/rkATmsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
